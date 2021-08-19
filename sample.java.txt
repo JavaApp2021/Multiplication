@@ -3,3 +3,5 @@ class definition
 adding second line
 
 third line
+
+fourth line
